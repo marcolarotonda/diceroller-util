@@ -8,7 +8,7 @@ import java.util.List;
 
 @Getter
 @ToString
-public class Result {
+public class RollResult {
     private final List<Integer> singleResults = new ArrayList<>();
     private int total;
 
